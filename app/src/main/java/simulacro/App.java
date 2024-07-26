@@ -15,6 +15,7 @@ public class App {
      * y devuelve en entero, los segundos equivalentes. Si hay un error, devuelve -1. 
      *  Adaptado de edabit
      */
+    
      public static int  Convertir_min_sec  (int minutos){
 
         try{
